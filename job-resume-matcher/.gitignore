@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+server/.env
+
+# Node
+node_modules/
+dist/
+client/dist/
+
+# Editor
+.DS_Store
+*.swp
